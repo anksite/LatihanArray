@@ -1,0 +1,7 @@
+D:\18.11.2288\LatihanArray\LatihanArray\bin\Debug\LatihanArray.exe.config
+D:\18.11.2288\LatihanArray\LatihanArray\bin\Debug\LatihanArray.exe
+D:\18.11.2288\LatihanArray\LatihanArray\bin\Debug\LatihanArray.pdb
+D:\18.11.2288\LatihanArray\LatihanArray\obj\Debug\LatihanArray.csprojAssemblyReference.cache
+D:\18.11.2288\LatihanArray\LatihanArray\obj\Debug\LatihanArray.csproj.CoreCompileInputs.cache
+D:\18.11.2288\LatihanArray\LatihanArray\obj\Debug\LatihanArray.exe
+D:\18.11.2288\LatihanArray\LatihanArray\obj\Debug\LatihanArray.pdb
